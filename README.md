@@ -1,7 +1,7 @@
 # Solar‑Panel‑Fault‑Identification‑Applied‑ML
 
 **A machine learning system to detect and classify faults in solar panels.**  
-Leveraging image classification (CNNs, transfer learning), this project enables automated detection of physical and electrical anomalies in photovoltaic (PV) systems—paving the way for smarter maintenance, faster diagnosis, and clearer insights.
+Leveraging image classification (CNNs, transfer learning), this project enables automated detection of physical and electrical anomalies in photovoltaic (PV) systems, paving the way for smarter maintenance, faster diagnosis, and clearer insights.
 
 ---
 
@@ -23,7 +23,7 @@ Leveraging image classification (CNNs, transfer learning), this project enables 
 
 ## Motivation
 
-Routine inspections of solar panels are time-consuming, costly, and prone to human error. By using machine learning—especially convolutional neural networks and transfer learning (e.g. VGG16)—this project automates the identification of panel faults, supporting efficient and scalable PV maintenance alike :contentReference[oaicite:1]{index=1}.
+Routine inspections of solar panels are time-consuming, costly, and prone to human error. By using machine learning, especially convolutional neural networks and transfer learning, this project automates the identification of panel faults, supporting efficient and scalable PV maintenance alike :contentReference[oaicite:1]{index=1}.
 
 ---
 
